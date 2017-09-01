@@ -1,6 +1,6 @@
 # element-test
 
-> A Vue.js project
+> vue2.0仿vue中文社区
 
 ## Build Setup
 
