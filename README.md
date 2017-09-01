@@ -2,6 +2,8 @@
 
 > vue2.0仿vue中文社区
 
+
+assessToken:4a1bf6db-6420-4439-b8dc-9607b9b7db6a
 ## Build Setup
 
 ``` bash
